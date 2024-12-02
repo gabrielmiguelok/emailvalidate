@@ -42,8 +42,7 @@ Antes de comenzar, asegúrate de que tu sistema cumpla con los siguientes requis
 
    ```bash
    git clone https://github.com/gabrielmiguelok/emailvalidate.git
-   cd nombre_del_repositorio
-   ```
+   cd emailvalidate   ```
 
 2. **Instala las dependencias:**
 
